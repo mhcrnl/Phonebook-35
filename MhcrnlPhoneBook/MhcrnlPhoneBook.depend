@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1499627821 source:/home/mhcrnl/Documents/Phonebook-35/MhcrnlPhoneBook/directory.cpp
+	<iostream>
+	<cstring>
+	"directory.h"
+
+1499627821 /home/mhcrnl/Documents/Phonebook-35/MhcrnlPhoneBook/directory.h
+	"entry.h"
+
+1499627821 /home/mhcrnl/Documents/Phonebook-35/MhcrnlPhoneBook/entry.h
+	<iostream>
+
+1499627821 source:/home/mhcrnl/Documents/Phonebook-35/MhcrnlPhoneBook/entry.cpp
+	<cstring>
+	"entry.h"
+
+1499627821 source:/home/mhcrnl/Documents/Phonebook-35/MhcrnlPhoneBook/main.cpp
+	<cctype>
+	<iostream>
+	"directory.h"
+
